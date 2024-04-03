@@ -1,0 +1,14 @@
+E:\College\Tutoring\oop-TIYS\oop-tiys-jbangtson\bin\Debug\net8.0\YourAppName.exe
+E:\College\Tutoring\oop-TIYS\oop-tiys-jbangtson\bin\Debug\net8.0\YourAppName.deps.json
+E:\College\Tutoring\oop-TIYS\oop-tiys-jbangtson\bin\Debug\net8.0\YourAppName.runtimeconfig.json
+E:\College\Tutoring\oop-TIYS\oop-tiys-jbangtson\bin\Debug\net8.0\YourAppName.dll
+E:\College\Tutoring\oop-TIYS\oop-tiys-jbangtson\bin\Debug\net8.0\YourAppName.pdb
+E:\College\Tutoring\oop-TIYS\oop-tiys-jbangtson\obj\Debug\net8.0\YourAppName.GeneratedMSBuildEditorConfig.editorconfig
+E:\College\Tutoring\oop-TIYS\oop-tiys-jbangtson\obj\Debug\net8.0\YourAppName.AssemblyInfoInputs.cache
+E:\College\Tutoring\oop-TIYS\oop-tiys-jbangtson\obj\Debug\net8.0\YourAppName.AssemblyInfo.cs
+E:\College\Tutoring\oop-TIYS\oop-tiys-jbangtson\obj\Debug\net8.0\YourAppName.csproj.CoreCompileInputs.cache
+E:\College\Tutoring\oop-TIYS\oop-tiys-jbangtson\obj\Debug\net8.0\YourAppName.dll
+E:\College\Tutoring\oop-TIYS\oop-tiys-jbangtson\obj\Debug\net8.0\refint\YourAppName.dll
+E:\College\Tutoring\oop-TIYS\oop-tiys-jbangtson\obj\Debug\net8.0\YourAppName.pdb
+E:\College\Tutoring\oop-TIYS\oop-tiys-jbangtson\obj\Debug\net8.0\YourAppName.genruntimeconfig.cache
+E:\College\Tutoring\oop-TIYS\oop-tiys-jbangtson\obj\Debug\net8.0\ref\YourAppName.dll
