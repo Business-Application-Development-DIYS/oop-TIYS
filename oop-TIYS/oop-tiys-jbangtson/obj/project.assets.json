@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\College\\Tutoring\\oop-TIYS\\oop-tiys-jbangtson\\YourAppName.csproj",
+      "projectUniqueName": "E:\\College\\Tutoring\\oop-TIYS\\oop-TIYS\\oop-tiys-jbangtson\\YourAppName.csproj",
       "projectName": "YourAppName",
-      "projectPath": "E:\\College\\Tutoring\\oop-TIYS\\oop-tiys-jbangtson\\YourAppName.csproj",
+      "projectPath": "E:\\College\\Tutoring\\oop-TIYS\\oop-TIYS\\oop-tiys-jbangtson\\YourAppName.csproj",
       "packagesPath": "C:\\Users\\justi\\.nuget\\packages\\",
-      "outputPath": "E:\\College\\Tutoring\\oop-TIYS\\oop-tiys-jbangtson\\obj\\",
+      "outputPath": "E:\\College\\Tutoring\\oop-TIYS\\oop-TIYS\\oop-tiys-jbangtson\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
